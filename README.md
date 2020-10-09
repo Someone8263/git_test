@@ -1,0 +1,1 @@
+This is Someone's first git project!
